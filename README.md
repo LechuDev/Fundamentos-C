@@ -4,13 +4,8 @@ Este repositorio contiene los ejercicios y ejemplos relacionados con los fundame
 
 ## Contenido
 
-- Marco Teórico (Readme)
-- Ejercicios Prácticos(.\Ejercicios)
-
----
-
 <details>
-  <summary> 📚 Estructura de Ejercicios </summary>
+  <summary> 📚 Estructura de Ejercicios en (.\Ejercicios)</summary>
 
 ~~~mermaid
 graph TD
@@ -785,5 +780,6 @@ int main() {
 - [APRENDE C EN 30 MINUTOS](https://www.youtube.com/watch?v=6pWm9OpC9f0)
 
 - [Blog de Programación en C](https://elblogdelprogramador.com/posts/como-instalar-compiladores-de-c-y-c-en-windows-paso-a-paso/#gsc.tab=0)
+
 
 
